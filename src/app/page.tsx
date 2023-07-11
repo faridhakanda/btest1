@@ -30,7 +30,7 @@ export default function Home() {
 
       <div className="container bg-purple-500 max-w-2xl mx-auto text-lg rounded-md mb-1 p-1">
         <div>
-          <h1 className="p-4">2.নিচের কোনটি আম দেখাও।</h1>
+          <h1 className="p-4">2.নিচের কোনটি গাড়ি দেখাও।</h1>
         </div>
         <div className="grid grid-cols-2">
           <div>
