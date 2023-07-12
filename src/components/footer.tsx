@@ -38,10 +38,10 @@ const Footer = () => {
             }
         </div>
         <div className="mt-2">
-            <div className="text-start">
-                <h1>Designed by:</h1>
+            <div className="text-center">
+                <h1 className="text-md">Designed by:</h1>
                 <span className="items-start">
-                    <h1 className="text-lg">Farid Akanda</h1>
+                    <h1 className="text-xl">Farid Akanda</h1>
                     <p className="text-xs">Computer Programmer</p>
                 </span>
                 
